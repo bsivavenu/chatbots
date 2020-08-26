@@ -1,0 +1,318 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"test_path"
+			],
+			[
+				"num",
+				"num_test_image"
+			],
+			[
+				"left",
+				"left_mask"
+			],
+			[
+				"right",
+				"right_video"
+			],
+			[
+				"righ",
+				"right_array"
+			],
+			[
+				"lef",
+				"left_array"
+			],
+			[
+				"V",
+				"VideoWriter_fourcc"
+			],
+			[
+				"Vide",
+				"VideoWriter"
+			],
+			[
+				"fra",
+				"frame2"
+			],
+			[
+				"fr",
+				"frame2"
+			],
+			[
+				"frame",
+				"frame1"
+			],
+			[
+				"f",
+				"frame1"
+			],
+			[
+				"ri",
+				"right_names"
+			],
+			[
+				"le",
+				"left_names"
+			],
+			[
+				"ime",
+				"imread"
+			],
+			[
+				"im",
+				"img_names"
+			],
+			[
+				"dow",
+				"download_all_files"
+			],
+			[
+				"path",
+				"path_i"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"nor",
+				"normalize_image"
+			],
+			[
+				"re",
+				"resize"
+			],
+			[
+				"r",
+				"r_image"
+			],
+			[
+				"out",
+				"outputFrame"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/hulk-css/POC_Project/UnderWater/U-Net_Image/UWGAN_UIE-master/UWGAN/uwgan_model.py",
+		"/home/hulk-css/POC_Project/UnderWater/U-Net_Image/UWGAN_UIE-master/UWGAN/uwgan_main.py",
+		"/home/hulk-css/POC_Project/UnderWater/Ugan/FUnIE-GAN-master/nets/resnet.py",
+		"/home/hulk-css/POC_Project/UnderWater/Ugan/FUnIE-GAN-master/nets/funieGAN_up.py",
+		"/home/hulk-css/POC_Project/UnderWater/Ugan/FUnIE-GAN-master/train_funieGAN.py",
+		"/home/hulk-css/POC_Project/UnderWater/Ugan/FUnIE-GAN-master/opencv-gamma-correction.py",
+		"/home/hulk-css/POC_Project/UnderWater/Ugan/FUnIE-GAN-master/test_funieGAN.py",
+		"/home/hulk-css/POC_Project/UnderWater/Ugan/FUnIE-GAN-master/utils/data_utils.py",
+		"/home/hulk-css/POC_Project/UnderWater/Ugan/FUnIE-GAN-master/train_funieGAN_up.py",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/data/group_mask/modify.py",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/YOLOv3/train.py",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/YOLOv3/yolo3/utils.py",
+		"/home/hulk-css/POC_Project/UnderWater/UWGAN_UIE-master/UNetRestoration/test.py",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/data/MASK/modify.py",
+		"/media/hulk-css/New Volume/Segmentation_Code/model2/Semantic_Segmen_UNET_Training_CSS.py",
+		"/home/hulk-css/POC_Project/UnderWater_UGAN/Single-Underwater-Image-Enhancement-and-Color-Restoration-master/Underwater Image Color Restoration/DCP/GuidedFilter.py",
+		"/home/hulk-css/POC_Project/UnderWater_UGAN/Single-Underwater-Image-Enhancement-and-Color-Restoration-master/Underwater Image Color Restoration/DCP/main.py",
+		"/home/hulk-css/Desktop/dummy/depth.py",
+		"/home/hulk-css/POC_Project/UnderWater/UWGAN_UIE-master/UNetRestoration/test_one_image.py",
+		"/home/hulk-css/POC_Project/UnderWater/UWGAN_UIE-master/UWGAN/uwgan_main.py",
+		"/home/hulk-css/POC_Project/UnderWater/data_test/png.py",
+		"/home/hulk-css/POC_Project/UnderWater/UWGAN_UIE-master/UNetRestoration/resize_image.py",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/YOLOv3/gpu_opencv_video_detect.py",
+		"/home/hulk-css/Desktop/s3/data.py",
+		"/home/hulk-css/Desktop/s3/20-07-2020_16:35:22.bag_images/disparity_from_video.py",
+		"/home/hulk-css/Desktop/s3/20-07-2020_16:35:22.bag_images/loop.py",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/data/new_data/modify.py",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/data/sheild/modify.py",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/data/data_mask_001/modify.py",
+		"/home/hulk-css/Desktop/sonar/sonar_model.py",
+		"/home/hulk-css/POC_Project/UnderWater/UWGAN_UIE-master/UNetRestoration/train.py",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/YOLOv3/new_train.py",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/YOLOv3/gpu_opencv_video_detect1.py",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/YOLOv3/templates/dashboard.html",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/YOLOv3/webstreaming.py",
+		"/home/hulk-css/Desktop/sonar/test_model.py",
+		"/home/hulk-css/Desktop/UAM/sonar_model.py",
+		"/media/hulk-css/New Volume/depth_from_video/Video_from_cam.py",
+		"/home/hulk-css/Desktop/sonar/loaded_model.py",
+		"/home/hulk-css/Desktop/sonar/untitled4.py",
+		"/home/hulk-css/Desktop/33/Setupfile.py",
+		"/home/hulk-css/Desktop/UAM/updated_12-7-2020/Setupfile.py",
+		"/home/hulk-css/Desktop/UAM/updated_12-7-2020/Setupfile_UPDTED.py",
+		"/home/hulk-css/Desktop/33/Setupfile_UPDTED.py",
+		"/home/hulk-css/Desktop/33/Setupfile_UPDTED_old.py",
+		"/home/hulk-css/Desktop/UAM/model_loading_and_predcition.py.py",
+		"/home/hulk-css/Desktop/UAM/mod.py",
+		"/home/hulk-css/Desktop/33/ai_module.py",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/YOLOv3/gpu_opencv_video_detect._ff.py",
+		"/home/hulk-css/POC_Project/Mask_Withoutmask/ObjectDetection/Keras-FaceMask-Detection-System-yolo_weights/YOLOv3/gpu_opencv_video_detect_threading.py",
+		"/home/hulk-css/POC_Project/Social_Distance_POC/YOLO_Second/Social-Distancing-Analyser-COVID-19-master/Results/np_version_yolo_2.py",
+		"/home/hulk-css/POC_Project/Social_Distance_POC/YOLO_Second/Social-Distancing-Analyser-COVID-19-master/Results/version_yolo_2.py",
+		"/home/hulk-css/Desktop/praveen/attention_ocr/python/datasets/number_plates.py",
+		"/home/hulk-css/Desktop/praveen/attention_ocr/python/eval.py",
+		"/home/hulk-css/Desktop/praveen/num_plate/python/train.py",
+		"/home/hulk-css/Desktop/praveen/num_plate/python/model.py",
+		"/home/hulk-css/Desktop/praveen/attention_ocr/python/common_flags.py",
+		"/home/hulk-css/Desktop/praveen/num_plate/python/demo_inference.py",
+		"/home/hulk-css/Desktop/praveen/numberplate/attention_ocr/python/common_flags.py",
+		"/home/hulk-css/Desktop/praveen/numberplate/attention_ocr/python/datasets/number_plates.py",
+		"/home/hulk-css/Desktop/praveen/numberplate/attention_ocr/python/datasets/fsns.py",
+		"/home/hulk-css/Desktop/praveen/numberplate/attention_ocr/python/eval.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "weather.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 131.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
